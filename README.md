@@ -1,2 +1,1 @@
-# wcd02-group-project
-This repository is used for group project WCD02 class
+[Klik di sini untuk melihat kode di repository UAS Project Group 7](https://github.com/RIYORIALDY/WCD_CloseTheDoor)
